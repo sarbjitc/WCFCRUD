@@ -1,0 +1,8 @@
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\bin\Debug\RESTConsoleClient.exe.config
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\bin\Debug\RESTConsoleClient.exe
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\bin\Debug\RESTConsoleClient.pdb
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\obj\Debug\RESTConsoleClient.csprojResolveAssemblyReference.cache
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\obj\Debug\RESTConsoleClient.exe
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\obj\Debug\RESTConsoleClient.pdb
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\bin\Debug\DataTransferLibrary.dll
+C:\Work\Labs\WCF\CRUDASSOAP\RESTConsoleClient\bin\Debug\DataTransferLibrary.pdb

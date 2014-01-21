@@ -1,0 +1,4 @@
+C:\Work\Labs\WCF\LiveDemoCRUD\DataTransfer\bin\Debug\DataTransfer.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\DataTransfer\bin\Debug\DataTransfer.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\DataTransfer\obj\Debug\DataTransfer.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\DataTransfer\obj\Debug\DataTransfer.pdb

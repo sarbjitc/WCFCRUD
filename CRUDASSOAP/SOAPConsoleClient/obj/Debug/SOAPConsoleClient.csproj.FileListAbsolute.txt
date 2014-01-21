@@ -1,0 +1,5 @@
+C:\Work\Labs\WCF\CRUDASSOAP\SOAPConsoleClient\bin\Debug\SOAPConsoleClient.exe.config
+C:\Work\Labs\WCF\CRUDASSOAP\SOAPConsoleClient\bin\Debug\SOAPConsoleClient.exe
+C:\Work\Labs\WCF\CRUDASSOAP\SOAPConsoleClient\bin\Debug\SOAPConsoleClient.pdb
+C:\Work\Labs\WCF\CRUDASSOAP\SOAPConsoleClient\obj\Debug\SOAPConsoleClient.exe
+C:\Work\Labs\WCF\CRUDASSOAP\SOAPConsoleClient\obj\Debug\SOAPConsoleClient.pdb

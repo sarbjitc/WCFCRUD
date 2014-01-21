@@ -1,0 +1,8 @@
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\bin\Debug\CRUDASSOAP.dll.config
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\bin\Debug\CRUDASSOAP.dll
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\bin\Debug\CRUDASSOAP.pdb
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\bin\Debug\DataTransferLibrary.dll
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\bin\Debug\DataTransferLibrary.pdb
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\obj\Debug\DataAccessLibrary.csprojResolveAssemblyReference.cache
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\obj\Debug\CRUDASSOAP.dll
+C:\Work\Labs\WCF\CRUDASSOAP\CRUDASSOAP\obj\Debug\CRUDASSOAP.pdb

@@ -1,0 +1,8 @@
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\bin\Debug\LiveDemoCRUD.dll.config
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\bin\Debug\LiveDemoCRUD.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\bin\Debug\LiveDemoCRUD.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\bin\Debug\DataTransfer.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\bin\Debug\DataTransfer.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\obj\Debug\DataOperations.csprojResolveAssemblyReference.cache
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\obj\Debug\LiveDemoCRUD.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\LiveDemoCRUD\obj\Debug\LiveDemoCRUD.pdb

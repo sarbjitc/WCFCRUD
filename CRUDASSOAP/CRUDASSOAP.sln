@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLibrary", "CRUDASSOAP\DataAccessLibrary.csproj", "{CA88183C-E9AC-42F4-8CC3-71196C1B2961}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTransferLibrary", "DataTransferLibrary\DataTransferLibrary.csproj", "{935584FD-8244-4CD2-9B59-3883019E94BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDService", "CRUDService\CRUDService.csproj", "{BB0121E3-6818-4D9D-A48E-EB0F1158294D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAPConsoleClient", "SOAPConsoleClient\SOAPConsoleClient.csproj", "{CC1B1829-9CDF-4C3D-A6D9-8863B9F2CFEA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB0121E3-6818-4D9D-A48E-EB0F1158294D} = {BB0121E3-6818-4D9D-A48E-EB0F1158294D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDRESTService", "CRUDRESTService\CRUDRESTService.csproj", "{983618E3-E8B5-4169-8D1B-06ACD7C8C3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTConsoleClient", "RESTConsoleClient\RESTConsoleClient.csproj", "{EAC71CE3-BDFA-405C-89F7-874525CD899F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA88183C-E9AC-42F4-8CC3-71196C1B2961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA88183C-E9AC-42F4-8CC3-71196C1B2961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA88183C-E9AC-42F4-8CC3-71196C1B2961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA88183C-E9AC-42F4-8CC3-71196C1B2961}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935584FD-8244-4CD2-9B59-3883019E94BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935584FD-8244-4CD2-9B59-3883019E94BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935584FD-8244-4CD2-9B59-3883019E94BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935584FD-8244-4CD2-9B59-3883019E94BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB0121E3-6818-4D9D-A48E-EB0F1158294D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0121E3-6818-4D9D-A48E-EB0F1158294D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0121E3-6818-4D9D-A48E-EB0F1158294D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0121E3-6818-4D9D-A48E-EB0F1158294D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1B1829-9CDF-4C3D-A6D9-8863B9F2CFEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1B1829-9CDF-4C3D-A6D9-8863B9F2CFEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1B1829-9CDF-4C3D-A6D9-8863B9F2CFEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1B1829-9CDF-4C3D-A6D9-8863B9F2CFEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{983618E3-E8B5-4169-8D1B-06ACD7C8C3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{983618E3-E8B5-4169-8D1B-06ACD7C8C3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{983618E3-E8B5-4169-8D1B-06ACD7C8C3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{983618E3-E8B5-4169-8D1B-06ACD7C8C3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC71CE3-BDFA-405C-89F7-874525CD899F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC71CE3-BDFA-405C-89F7-874525CD899F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC71CE3-BDFA-405C-89F7-874525CD899F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC71CE3-BDFA-405C-89F7-874525CD899F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

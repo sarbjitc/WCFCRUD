@@ -1,0 +1,5 @@
+C:\Work\Labs\WCF\LiveDemoCRUD\SOAPClient\bin\Debug\SOAPClient.exe.config
+C:\Work\Labs\WCF\LiveDemoCRUD\SOAPClient\bin\Debug\SOAPClient.exe
+C:\Work\Labs\WCF\LiveDemoCRUD\SOAPClient\bin\Debug\SOAPClient.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\SOAPClient\obj\Debug\SOAPClient.exe
+C:\Work\Labs\WCF\LiveDemoCRUD\SOAPClient\obj\Debug\SOAPClient.pdb

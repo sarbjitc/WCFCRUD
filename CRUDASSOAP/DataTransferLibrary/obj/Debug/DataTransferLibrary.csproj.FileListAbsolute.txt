@@ -1,0 +1,4 @@
+C:\Work\Labs\WCF\CRUDASSOAP\DataTransferLibrary\bin\Debug\DataTransferLibrary.dll
+C:\Work\Labs\WCF\CRUDASSOAP\DataTransferLibrary\bin\Debug\DataTransferLibrary.pdb
+C:\Work\Labs\WCF\CRUDASSOAP\DataTransferLibrary\obj\Debug\DataTransferLibrary.dll
+C:\Work\Labs\WCF\CRUDASSOAP\DataTransferLibrary\obj\Debug\DataTransferLibrary.pdb

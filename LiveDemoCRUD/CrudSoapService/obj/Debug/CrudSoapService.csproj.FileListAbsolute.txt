@@ -1,0 +1,9 @@
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\bin\CrudSoapService.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\bin\CrudSoapService.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\bin\DataTransfer.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\bin\LiveDemoCRUD.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\bin\DataTransfer.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\bin\LiveDemoCRUD.pdb
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\obj\Debug\CrudSoapService.csprojResolveAssemblyReference.cache
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\obj\Debug\CrudSoapService.dll
+C:\Work\Labs\WCF\LiveDemoCRUD\CrudSoapService\obj\Debug\CrudSoapService.pdb
